@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - LegGrounder
+  - Blaster
+  - PlayerCenter
+  - Projectile
+  - Shootable
+  - EnemyProjectile
+  - JoystickCanvas
+  - BananaCanvas
+  - MainCameraPositioner
+  - PointJoystick
+  - PointJoystickHandle
+  - BananaPowerController
+  - MainTargetGroup
+  - MainCameraPositionerBanana
+  - MainCameraPositionerCherry
+  - CherryExplosion
+  - CherryBomb
+  - DetonateButton
+  - MainCameraPositionerPineapple
+  - SpikeEmitter
+  - Deadly
+  - Unsafe
+  - MainCameraPositionerDragonfruit
+  - GravityZone
+  - MainCameraPositionerCoconut
+  - MenuButtons
+  - BlasterUI
+  - BUIL
+  - BUIM
+  - BUIR
+  - ButtonCanvas
+  - BananaProjectileMulti
+  - PhotonStartDoor
+  - MelonShockwave
+  - PineappleSpike
+  - DragonfruitFireball
+  - CoconutMulti
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Blaster
+  - PostProcessing
+  - Projectile
+  - PineappleSpike
+  - Drone
+  - DroneCage
+  - EnemyProjectile
+  - Crawler
+  - Ground
+  - Checkpoint
+  - Confiner
+  - Laser
+  - BananaProjectile
+  - GravityZone
+  - PlayerTriggers
+  - MotherShip
+  - Robot
+  - Instruction
+  - ProjectileMulti
+  - PhotonPowerShield
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1935859333
+    locked: 0
+  - name: Mushroom
+    uniqueID: 2517918267
+    locked: 0
+  - name: Midground
+    uniqueID: 461165785
+    locked: 0
+  - name: Foreground
+    uniqueID: 3240022041
+    locked: 0

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e53478cc5ea4940dbac4e74f05a7fb60
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DAGGERSQUARE
+  fontNames:
+  - DAGGERSQUARE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 91555de9a8b0747f7b7332c30e1a845b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
